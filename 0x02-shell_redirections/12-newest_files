@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lsu
+ls -At | head -n 10
